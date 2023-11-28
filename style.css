@@ -101,7 +101,7 @@ body{
   }
 
 
-  @media screen and (max-width: 420px){
+  @media screen and (max-width: 1100px){
     .mrrobots-png{
      max-width: 95vw;
     }
